@@ -2,3 +2,4 @@
 -> git add <arquivo> -> adiciona na branch do repositorio local -> torna o arquivo possível de ser vigiado/commitado pelo git
 -> git status -> passa a situação atual dos arquivos e pastas do repositorio local
 -> git commit -> ele salva o que foi desenvolvido no momento, tornando possível voltar aquele estado do código
+Luth Passou por aqui UAHAUAH 🤡😁
